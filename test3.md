@@ -1,0 +1,7 @@
+---
+layout: default
+title: Test2
+nav_order: 2
+parent: Test
+---
+Hola de nuevo!
